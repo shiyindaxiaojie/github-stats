@@ -36,9 +36,9 @@ h3 {
   fill: rgb(36, 41, 46);
 }
 
-#gh-dark-mode-only:target h2 {
-  color: #c9d1d9;
-  fill: #c9d1d9;
+#gh-dark-mode-only:target h3 {
+  color: rgb(68, 147, 248);
+  fill: rgb(68, 147, 248);
 }
 
 ul {
