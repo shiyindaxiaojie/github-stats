@@ -128,7 +128,7 @@ div.ellipsis {
 <foreignObject x="21" y="17" width="318" height="176">
 <div xmlns="http://www.w3.org/1999/xhtml" class="ellipsis">
 
-<h2>使用语言分布</h2>
+<h3 style="transform: translateX(0);">使用语言分布</h3>
 
 <div>
 <span class="progress">
