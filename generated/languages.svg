@@ -26,7 +26,7 @@ foreignObject {
   height: calc(100% - 10px - 24px);
 }
 
-h3 {
+h4 {
   margin-top: 0;
   margin-bottom: 0.75em;
   line-height: 24px;
@@ -36,7 +36,7 @@ h3 {
   fill: rgb(36, 41, 46);
 }
 
-#gh-dark-mode-only:target h3 {
+#gh-dark-mode-only:target h4 {
   color: rgb(68, 147, 248);
   fill: rgb(68, 147, 248);
 }
@@ -128,7 +128,7 @@ div.ellipsis {
 <foreignObject x="21" y="17" width="318" height="176">
 <div xmlns="http://www.w3.org/1999/xhtml" class="ellipsis">
 
-<h3 style="transform: translateX(0);">使用语言分布</h3>
+<h4 style="transform: translateX(0);">使用语言分布</h4>
 
 <div>
 <span class="progress">
